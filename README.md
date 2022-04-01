@@ -15,4 +15,4 @@ here is a link to [my greeting function](https://gist.github.com/phyllodolphin/c
 ### using issues to host images
 a neat trick to use issues
 
-![screenshot](https://github.com/phyllodolphin/tech-discussion/issues/1#issue-1189301168)
+![Screen Shot 2022-04-01 at 2 20 01 AM](https://user-images.githubusercontent.com/76852516/161206370-339119ca-6bcb-43c8-9025-9f2215d8e6fe.png)
